@@ -1,4 +1,4 @@
-# TS 类型安全审核管 - TypeScript Safety Reviewer
+# TS 类型安全审核官 - TypeScript Safety Reviewer
 
 > 建议使用 codex 中的 gpt-5 high 
 
