@@ -6,9 +6,9 @@
 
 [在9w行ts仓库里面跑的效果](https://github.com/hylarucoder/prompts-for-vibe-coder/issues/1)
 
-## 文档一致性大师
+## 002 文档代码不一致搜查官
 
-[文档一致性大师](./102-document-consistent.md)
+[文档代码不一致搜查官](./102-document-consistent.md)
 
 > 如果你正头疼于项目中 any 泛滥，想动手重构又怕“用力过猛”搞崩业务，这份SOP就是为你准备的。
 
